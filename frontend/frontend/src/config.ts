@@ -1,0 +1,1 @@
+export const BACKEND_URL= "https://backend.zainal2004abidin.workers.dev"
